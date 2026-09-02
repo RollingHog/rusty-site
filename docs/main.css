@@ -1,0 +1,15 @@
+:root {
+  --bg-color: black;
+  --text-color: chocolate;
+  --accent-color: #F27932;
+  --danger-color: #f44336;
+  --input-bg: #2d2d2d;
+  --border-color: #444;
+}
+
+body,
+a {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
